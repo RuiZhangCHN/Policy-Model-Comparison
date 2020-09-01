@@ -3,6 +3,7 @@
 #### DDQ(K)
 ![avatar](imgs/ddq_k.png)  
 
+DDQ(K)的运行结果，其中K=[0, 5, 10, 15, 20]。
 Results of DDQ(K) model for K in [0, 5, 10, 15, 20], where DDQ(0) is same as a regular DQN.
 <table>
   <tr><td rowspan="2"><b>Model Name</b></td><td colspan="3"><b>Epoch=50</b></td><td colspan="3"><b>Epoch=100</b></td><td colspan="3"><b>Epoch=150</b></td><td colspan="3"><b>Epoch=200</b></td><td colspan="3"><b>Epoch=250</b></td><td colspan="3"><b>Epoch=300</b></td><td colspan="3"><b>Epoch=350</b></td><td colspan="3"><b>Epoch=400</b></td><td colspan="3"><b>Epoch=450</b></td></tr>
