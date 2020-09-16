@@ -1,6 +1,6 @@
 # Results of Benchmarks for EmotionalSimulator
 
-![Benchmarks](benchmarks.png)
+![Benchmarks](Benchmarks.png)
 
 <table>
   <tr><td rowspan="2"><b>Model Name</b></td><td colspan="2"><b>Epoch=150</b></td><td colspan="2"><b>Epoch=300</b></td><td colspan="2"><b>Epoch=450</b></td></tr>
